@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduino-nrf52-mbedos",
+  "version": "1.3.2",
+  "description": "Arduino framework supporting mbed-enabled boards",
+  "keywords": [
+    "framework",
+    "arduino",
+    "nordic semiconductor",
+    "nrf52"
+  ],
+  "homepage": "https://www.arduino.cc/reference/en",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arduino/ArduinoCore-mbed"
+  }
+}
